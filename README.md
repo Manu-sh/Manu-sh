@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 Hi, my name is Emanuele and I work as a web developer, here are some of the things I do, that I can do or that I would like to learn.
 
 * 🌳 Job Skills: PHP, Laravel, Javascript, JQuery, CSS, HTML, API, AJAX
