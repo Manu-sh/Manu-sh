@@ -6,6 +6,12 @@ Hi, my name is Emanuele and I work as a web developer, here are some of the thin
 * 💡 Interested in: Crystal, VueJS
 * 🔭 Curious About: Rust, Angular, GoLang, Python, Wordpress, Shopify
 
+
+#### Links
+* 🔗 [gitlab](https://gitlab.com/Manu-sh)
+* 🔗 [bitbucket](https://bitbucket.org/Manu-sh)
+
+
 <!--
 **Manu-sh/Manu-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
