@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hi, my name is Emanuele and I work as a web developer, here are some of the things I do, that I can do or that I would like to learn.
+
+* 🌳 Job Skills: PHP, Laravel, Javascript, JQuery, CSS, HTML, API, AJAX
+* 🌱 Other Skills: C, C++, Java, Ruby, Bash
+* 💡 Interested in: Crystal, VueJS
+* 🔭 Curious About: Rust, Angular, GoLang, Python, Wordpress, Shopify
 
 <!--
 **Manu-sh/Manu-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
