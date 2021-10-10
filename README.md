@@ -7,6 +7,7 @@ Hi, my name is Emanuele and I work as a web developer, here are some of the thin
 * 💡 Interested in: Crystal, VueJS
 * 🔭 Curious About: Rust, Angular, GoLang, Python, Wordpress, Shopify
 
+<br>
 
 <div align="center">
 
