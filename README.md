@@ -1,4 +1,5 @@
 ### Hi 🏄 👋
+
 Hi, my name is Emanuele and I work as a web developer, here are some of the things I do, that I can do or that I would like to learn.
 
 * 🌳 Job Skills: PHP, Laravel, Javascript, JQuery, CSS, HTML, API, AJAX
@@ -6,24 +7,23 @@ Hi, my name is Emanuele and I work as a web developer, here are some of the thin
 * 💡 Interested in: Crystal, VueJS
 * 🔭 Curious About: Rust, Angular, GoLang, Python, Wordpress, Shopify
 
-
 #### Links
+[![](https://img.shields.io/badge/-WebSite-informational?style=for-the-badge&logo=curl&logoColor=white&color=000000)](https://emanueleinnamorati.it)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/ascii_slashy)
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuele-innamorati)
+[![](https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=000000)](https://gitlab.com/Manu-sh)
+[![](https://img.shields.io/badge/-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=0052cc)](https://bitbucket.org/Manu-sh)
+
+<!--
+[![](https://img.shields.io/badge/-WebSite-informational?style=for-the-badge&logo=curl&logoColor=white&color=000000)](https://emanueleinnamorati.it)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/ascii_slashy)
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuele-innamorati)
+[![](https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=000000)](https://gitlab.com/Manu-sh)
+[![](https://img.shields.io/badge/-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=0052cc)](https://bitbucket.org/Manu-sh)
+[![](https://img.shields.io/badge/-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white&color=0f94d2)](https://www.archlinux.org)
+[![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=linux&logoColor=white&color=AC4142)](https://www.archlinux.org/)
+
 * 🔗 [WebSite](https://emanueleinnamorati.it)
 * 🔗 [Gitlab](https://gitlab.com/Manu-sh)
 * 🔗 [Bitbucket](https://bitbucket.org/Manu-sh)
-
-
-<!--
-**Manu-sh/Manu-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
