@@ -18,7 +18,7 @@ Hi, my name is Emanuele and I work as a web developer, here are some of the thin
   [![](https://img.shields.io/badge/-Email-informational?style=for-the-badge&logo=mail.ru&logoColor=white&color=black)](mailto:info@emanueleinnamorati.it)
 
   <a href="https://emanueleinnamorati.it/qrcode">
-    <img src="https://emanueleinnamorati.it/qrcode" width="350px" height="350px" alt="" />
+    <img src="https://emanueleinnamorati.it/qrcode" width="300px" height="300px" alt="" />
   </a>
 
 </div>
