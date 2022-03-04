@@ -9,6 +9,13 @@ Hi, my name is Emanuele and I work as a web developer, here are some of the thin
 
 <br>
 
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu-sh&layout=compact&theme=omni" />
+</a>
+<br>
+-->
+
 <div align="center">
 
   [![](https://img.shields.io/badge/-WebSite-informational?style=for-the-badge&logo=curl&logoColor=white&color=000000)](https://emanueleinnamorati.it)
