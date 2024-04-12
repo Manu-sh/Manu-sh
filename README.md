@@ -23,7 +23,7 @@ Hi, my name is Emanuele and I work as a web developer, here are some of the thin
 -->
 
   [![](https://img.shields.io/badge/-LinkTree-informational?style=for-the-badge&logo=linktree&logoColor=white&color=000000)](https://linktr.ee/emanueleinnamorati)
-  [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/ascii_slashy)
+  [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://en.wikipedia.org/wiki/Censorship)
   [![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuele-innamorati)
   [![](https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=000000)](https://gitlab.com/Manu-sh)
   [![](https://img.shields.io/badge/-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=0052cc)](https://bitbucket.org/Manu-sh)
